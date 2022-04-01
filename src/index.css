@@ -21,11 +21,6 @@ body {
     radial-gradient(at 100% -8%, rgb(58, 39, 114) 0, transparent 50%);
 }
 
-/* .gradient-bg-services {
-  background-image: 
-    radial-gradient(at 100% 0%, rgb(18, 13, 33) 0, transparent 50%),
-    radial-gradient(at 100% 10%, rgb(25, 14, 33) 0, transparent 50%);
-} */
 
 .gradient-bg-exchange {
   background-color:#0f0e13;
