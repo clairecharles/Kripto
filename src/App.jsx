@@ -8,9 +8,10 @@ const App = () => {
 			<div className="gradient-bg-welcome">
 				<Navbar />
 				<Welcome />
+				<Exchange />
+
 				<Services />
 			</div>
-			<Exchange />
 			<Transactions />
 			<Footer />
 		</div>
